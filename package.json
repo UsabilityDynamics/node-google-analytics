@@ -17,6 +17,7 @@
   "dependencies": {
     "debug": "~0.8.1",
     "request": "~2.34.0",
-    "deep-extend": "~0.2.8"
+    "deep-extend": "~0.2.8",
+    "ga": "0.0.2"
   }
 }
