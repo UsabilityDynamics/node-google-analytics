@@ -7,3 +7,4 @@ composer.lock
 .logs
 .DS_Store
 */.DS_Store
+npm-debug.log

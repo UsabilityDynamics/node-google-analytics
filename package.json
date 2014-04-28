@@ -19,5 +19,17 @@
     "request": "~2.34.0",
     "deep-extend": "~0.2.8",
     "ga": "0.0.2"
-  }
+  },
+  "description": "The objective of this module is to allow Google Anaytics to be used for server-side Page View and Event tracking. For example, we use this module on api.udx.io and cdn.udx.io to track access to CDN assets and API requests.",
+  "bugs": {
+    "url": "https://github.com/UsabilityDynamics/node-google-analytics/issues"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "keywords": [
+    "google-analytics"
+  ],
+  "author": "Usability Dynamics, Inc.",
+  "license": "MIT"
 }
